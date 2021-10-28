@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshtank89
 - 👀 I’m interested in Programming and Tech
-- 🌱 I’m currently learning App Develpment
+- 🌱 I’m currently learning Java
 -
 - harshtank990@gmail.com contact here for any web related work
 
